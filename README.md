@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-Inaciosilva-1f6feb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnernervessantos/)](https://www.linkedin.com/in/vagnernervessantos/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Inaciosilva-1f6feb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inacio-silva-62aa31153/)](https://www.linkedin.com/in/inacio-silva-62aa31153/) 
 [![Gmail Badge](https://img.shields.io/badge/-inaciosilva.dev@gmail.com-1f6feb?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inaciosilva.dev@gmail.com)](mailto:inaciosilva.dev@gmail.com)
   
 </div>
