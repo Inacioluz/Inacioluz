@@ -33,6 +33,9 @@
   <a href="https://vitejs.dev/">
     <img height="25em" alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <a/>
+  <a href="https://nextjs.org/">
+  <img height="25em" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  </a>
   <a href="https://styled-components.com/">
     <img height="25em" alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   </a>
@@ -52,22 +55,25 @@
   <a href="https://www.mongodb.com/">
     <img height="25em" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248"/>
   </a>
+  <a href="https://expressjs.com/">
+    <img height="25em" alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  </a>
   
 
 
-  ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+  ### Olá ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+  
+Há uma terra onde partilho brinquedos e faço uma pausa.
 
-There is a land where I share toys and have a break.
-
-I'm currently learning building tools and AST.
+Atualmente, estou a aprender ferramentas de construção e AST.
 
 <details>
-<summary>⚡️ More about my coding life</summary>
+<summary>⚡️ Mais sobre a minha vida de programador</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeeng&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inacioluz&layout=compact&hide=css,html)
 
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=zheeeng&count_private=true&show_icons=true&theme=onedark)
+![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=Inacioluz&count_private=true&show_icons=true&theme=onedark)
 
 </details>
 </div>
