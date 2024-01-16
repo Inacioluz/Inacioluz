@@ -39,6 +39,9 @@
   <a href="https://styled-components.com/">
     <img height="25em" alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img height="25em" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
   <a href="https://www.typescriptlang.org/">
     <img height="25em" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
@@ -58,6 +61,9 @@
   <a href="https://expressjs.com/">
     <img height="25em" alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   </a>
+  
+
+
   
 
 
