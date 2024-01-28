@@ -46,7 +46,7 @@
     <img height="25em" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
     <a  href="https://www.java.com/pt-BR/">
-      <img height="25em" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+      <img height="25em" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=FF0000"/>
     </a>
   <a href="https://pt-br.node.js.dev/">
     <img height="25em" alt="Node.js" src="https://img.shields.io/badge/Node.js-087ea4?style=for-the-badge&logo=node.js&logoColor=ForestGreen&color=ForestGreen"/>
