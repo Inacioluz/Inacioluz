@@ -58,9 +58,6 @@
   <a href="https://www.docker.com/">
     <img height="25em" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED"/>
   </a>
-  <a href="https://www.mongodb.com/">
-    <img height="25em" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248"/>
-  </a>
   <a href="https://expressjs.com/">
     <img height="25em" alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   </a>
